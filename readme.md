@@ -1,18 +1,14 @@
 # Schedule for [Sound Transit LINK](http://www.soundtransit.org/Schedules/Central-Link-light-rail) #
-Based on GTFS data.
+Schedules as provided by KCM.
 
-Schedules as provided by KCM:
-* [Weekday to Sea Tac](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-08-2013&PLayout=letter&SB=Print&PLayout=landscape)
-* [Saturday to Sea Tac](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-10-2013&PLayout=letter&SB=Print&PLayout=landscape)
-* [Sunday to Sea Tac](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-11-2013&PLayout=letter&SB=Print&PLayout=landscape)
-
-* [Weekday to Seattle](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-08-2013&PLayout=letter&SB=Print&PLayout=landscape)
-* [Saturday to Seattle](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-10-2013&PLayout=letter&SB=Print&PLayout=landscape)
-* [Sunday to Seattle](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-11-2013&PLayout=letter&SB=Print&PLayout=landscape)
+* To Sea Tac: [Weekday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-08-2013&PLayout=letter&SB=Print&PLayout=landscape) | [Saturday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-10-2013&PLayout=letter&SB=Print&PLayout=landscape) | [Sunday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5993&Date=08-11-2013&PLayout=letter&SB=Print&PLayout=landscape)
+* To Seattle: [Weekday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-08-2013&PLayout=letter&SB=Print&PLayout=landscape) | [Saturday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-10-2013&PLayout=letter&SB=Print&PLayout=landscape) | [Sunday](http://tripplanner2.kingcounty.gov/hiwire?.a=iHeadwaySheetPrint&LineDirId=5992&Date=08-11-2013&PLayout=letter&SB=Print&PLayout=landscape)
 
 In URL change Date to correct date if you get errors or want to verify schedule for exact day.
 
 # JUST NOTES BELOW HERE #
+
+Based on GTFS data.
 
 [View schedule](http://bbodenmiller.github.io/LINK-schedule)
 
